@@ -88,7 +88,7 @@ def adding_matz
         }
      }
 
-  a = programmer_hash[:known_for, :languages]
+  a = programmer_hash[]
   return a
 
 end
