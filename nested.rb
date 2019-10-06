@@ -89,7 +89,7 @@ def adding_matz
      }
 
   a = programmer_hash[:yukihiro_matsumoto]
-  b = programmer_hash[a][]
+  b = a[:yukihiro_matsumoto][]
   return a
 
 end
