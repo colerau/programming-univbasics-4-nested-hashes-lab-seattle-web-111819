@@ -88,7 +88,7 @@ def adding_matz
         }
      }
 
-  a = programmer_hash[:yukihiro_matsumoto]
+  a = programmer_hash[:known_for, :languages]
   return a
 
 end
