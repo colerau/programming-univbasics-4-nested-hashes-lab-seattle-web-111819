@@ -88,7 +88,8 @@ def adding_matz
         }
      }
 
-  a = programmer_hash[]
+  a = programmer_hash[:yukihiro_matsumoto]
+  
   return a
 
 end
